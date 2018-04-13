@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9ec4c76-ce00-429a-999c-4a07ddc16004" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/runningmachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/runningmachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/runningmachine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +44,8 @@
       <file leaf-file-name="runningmachine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/runningmachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="280">
+              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -155,12 +153,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523593785253</updated>
-      <workItem from="1523593790419" duration="3870000" />
+      <workItem from="1523593790419" duration="5385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3870000" />
+    <option name="totallyTimeSpent" value="5385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1400" height="792" extended-state="0" />
@@ -227,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/runningmachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="280">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
         </state>
       </provider>
     </entry>

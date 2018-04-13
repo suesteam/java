@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9ec4c76-ce00-429a-999c-4a07ddc16004" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/runningmachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/runningmachine.java" afterDir="false" />
-    </list>
+    <list default="true" id="c9ec4c76-ce00-429a-999c-4a07ddc16004" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -153,12 +151,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523593785253</updated>
-      <workItem from="1523593790419" duration="5385000" />
+      <workItem from="1523593790419" duration="5508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5385000" />
+    <option name="totallyTimeSpent" value="5508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1400" height="792" extended-state="0" />
